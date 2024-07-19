@@ -51,7 +51,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
      <p>&nbsp&nbsp&nbspRafael Coelho<br>
     &nbsp&nbsp&nbsp
     <a ">
-     GitHub</a>&nbsp;|&nbsp;https://github.com/Rafael-dev v&nbsp;|&nbsp;
+     GitHub</a>&nbsp;|&nbsp;https://github.com/Rafael-devv &nbsp;|&nbsp;
     <a ">LinkedIn</a>
 &nbsp;|&nbsp;
 &nbsp;|&nbsp;</p>
