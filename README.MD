@@ -57,7 +57,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <p>&nbsp&nbsp&nbspRafael-Devv<br>
     &nbsp&nbsp&nbsp
     <a ">
-    GitHub</a>&nbsp;|&nbsp;
+    GitHub</a>https://github.com/Rafael-devv &nbsp;|&nbsp;
     <a ">LinkedIn</a>
 &nbsp;|&nbsp;
 &nbsp;|&nbsp;</p>
