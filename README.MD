@@ -60,8 +60,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a ">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a ">
-    Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
